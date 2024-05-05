@@ -13,7 +13,7 @@
         "name": "gas"
       },
       {
-        "repo": "https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone/",
+        "repo": "https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone",
         "branch": "13",
         "name": "clang"
       }
