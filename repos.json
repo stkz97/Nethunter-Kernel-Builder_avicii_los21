@@ -13,8 +13,8 @@
         "name": "gas"
       },
       {
-        "repo": "https://github.com/llvm/llvm-project",
-        "branch": "main",
+        "repo": "https://github.com/llvm/llvm-project/tree/release/18.x/clang",
+        "branch": "release/18.x",
         "name": "clang"
       }
     ],
