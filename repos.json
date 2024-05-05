@@ -1,6 +1,6 @@
 [  {
     "kernelSource": {
-      "name": "Evolution-X-Devices",
+      "name": "Evolution-X",
       "repo": "https://github.com/Evolution-X-Devices/kernel_xiaomi_sdm845",
       "branch": "thirteen",
       "device": "sdm845"
