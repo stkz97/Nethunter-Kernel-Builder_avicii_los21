@@ -1,11 +1,11 @@
 [  {
     "kernelSource": {
-      "name": "dark-Kernel",
-      "repo": "https://github.com/LineageOS/android_kernel_qcom_sm8150",
-      "branch": "lineage-20",
-      "device": "sm8150-perf"
+      "name": "Evolution-X-Devices",
+      "repo": "https://github.com/Evolution-X-Devices/kernel_xiaomi_sdm845",
+      "branch": "thirteen",
+      "device": "sdm845"
     },
-    "withKernelSU": true,
+    "withKernelSU": false,
     "toolchains": [
       {
         "repo": "https://android.googlesource.com/platform/prebuilts/gas/linux-x86",
@@ -14,7 +14,7 @@
       },
       {
         "repo": "https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone/",
-        "branch": "11",
+        "branch": "14",
         "name": "clang"
       }
     ],
