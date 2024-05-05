@@ -1,11 +1,11 @@
 [  {
     "kernelSource": {
       "name": "Evolution-X",
-      "repo": "https://github.com/yanhuo26/kernel_xiaomi_sdm845.git",
-      "branch": "thirteen",
+      "repo": "https://github.com/Evolution-X-Devices/kernel_xiaomi_sdm845.git",
+      "branch": "thirteen-KSU",
       "device": "sdm845"
     },
-    "withKernelSU": false,
+    "withKernelSU": true,
     "toolchains": [
       {
         "repo": "https://android.googlesource.com/platform/prebuilts/gas/linux-x86",
