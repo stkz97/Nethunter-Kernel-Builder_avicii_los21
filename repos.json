@@ -13,7 +13,7 @@
         "name": "gas"
       },
       {
-        "repo": "https://github.com/kdrag0n/proton-clang.git",
+        "repo": "https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86",
         "branch": "master",
         "name": "clang"
       }
