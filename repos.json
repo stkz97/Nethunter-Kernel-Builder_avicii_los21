@@ -13,9 +13,9 @@
         "name": "gas"
       },
       {
-        "repo": "https://github.com/kdrag0n/proton-clang.git",
+        "repo": "https://github.com/gcc-mirror/gcc.git",
         "branch": "master",
-        "name": "clang"
+        "name": "gcc"
       }
     ],
     "params": {
@@ -25,7 +25,7 @@
       "CROSS_COMPILE_COMPAT": "arm-linux-gnueabi-",
       "CLANG_TRIPLE": "aarch64-linux-gnu-",
       "AR": "",
-      "CC": "clang"
+      "CC": "gcc"
     },
     "extraParams": {
       "KEEP": ""
