@@ -15,7 +15,7 @@
       {
         "repo": "https://github.com/gcc-mirror/gcc.git",
         "branch": "master",
-        "name": "gcc"
+        "name": "clang"
       }
     ],
     "params": {
@@ -25,7 +25,7 @@
       "CROSS_COMPILE_COMPAT": "arm-linux-gnueabi-",
       "CLANG_TRIPLE": "aarch64-linux-gnu-",
       "AR": "",
-      "CC": "gcc"
+      "CC": "clang"
     },
     "extraParams": {
       "KEEP": ""
