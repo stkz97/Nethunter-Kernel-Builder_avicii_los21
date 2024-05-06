@@ -14,7 +14,7 @@
       },
       {
         "repo": "https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86",
-        "branch": "master",
+        "branch": "main",
         "name": "clang"
       }
     ],
