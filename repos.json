@@ -3,7 +3,7 @@
       "name": "Evolution-X",
       "repo": "https://github.com/CZB666-wdnmd/android_kernel_xiaomi_sdm845.git",
       "branch": "udc",
-      "device": "equuleus"
+      "device": "sdm845"
     },
     "withKernelSU": false,
     "toolchains": [
