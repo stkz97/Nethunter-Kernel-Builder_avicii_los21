@@ -3,7 +3,7 @@
       "name": "linux-kernel",
       "repo": "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git",
       "branch": "linux-6.6.y",
-      "device": "sdm845"
+      "device": ""
     },
     "withKernelSU": false,
     "toolchains": [
