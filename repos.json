@@ -3,7 +3,7 @@
       "name": "linux-kernel",
       "repo": "https://github.com/yanhuo26/android_kernel_xiaomi_sdm845.git",
       "branch": "udc",
-      "device": "sdm845-perf"
+      "device": "sdm845"
     },
     "withKernelSU": false,
     "toolchains": [
