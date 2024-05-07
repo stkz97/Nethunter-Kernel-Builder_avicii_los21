@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
       "name": "linux-kernel",
-      "repo": "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git",
-      "branch": "linux-6.6.y",
-      "device": ""
+      "repo": "https://github.com/yanhuo26/android_kernel_xiaomi_sdm845.git",
+      "branch": "udc",
+      "device": "sdm845-perf"
     },
     "withKernelSU": false,
     "toolchains": [
