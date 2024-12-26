@@ -1,11 +1,11 @@
 [  {
     "kernelSource": {
       "name": "linux-kernel",
-      "repo": "https://github.com/yanhuo26/android_kernel_xiaomi_sdm845.git",
-      "branch": "udc",
-      "device": "sdm845"
+      "repo": "https://github.com/LineageOS/android_kernel_oneplus_sm7250.git",
+      "branch": "lineage-21",
+      "device": "avivii"
     },
-    "withKernelSU": false,
+    "withKernelSU": true,
     "toolchains": [
       {
         "repo": "https://android.googlesource.com/platform/prebuilts/gas/linux-x86",
